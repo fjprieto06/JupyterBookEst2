@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+jupyter-book build Est2_book_t
