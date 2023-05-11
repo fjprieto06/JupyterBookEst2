@@ -1,0 +1,155 @@
+﻿CountryCode;SDGIndexScore;Region;Population;Goal1Dash;Goal1Score;Goal2Dash;Goal2Score;TotalGreen;TotalYellow;TotalOrange;TotalRed;Country
+AGO;50,3;Africa;32866268;red;12,913;red;55,424125;1;1;2;13;Angola
+ALB;71;E. Europe & C. Asia;2877800;yellow;91,6375;orange;60,00485714;2;2;11;2;Albania
+ARE;70,2;MENA;9890400;green;99,5695;red;67,268;1;6;3;6;United Arab Emirates
+ARG;72,8;LAC;45195777;yellow;95,99;red;67,543125;1;3;7;6;Argentina
+ARM;71,8;E. Europe & C. Asia;2963234;yellow;93,438;orange;60,72814286;1;5;7;3;Armenia
+AUS;75,6;OECD;25499881;yellow;99,61;red;58,740125;1;7;3;6;Australia
+AUT;82,1;OECD;9006400;green;99,467;orange;73,767125;3;7;3;3;Austria
+AZE;72,4;E. Europe & C. Asia;10139175;green;100;orange;61,88028571;1;3;8;4;Azerbaijan
+BDI;51,8;Africa;11890781;red;0;red;50,54016667;1;0;5;10;Burundi
+BEL;82,2;OECD;11589616;green;99,527;orange;70,878875;1;7;7;2;Belgium
+BEN;49,9;Africa;12123198;red;16,8665;red;62,465375;2;0;1;14;Benin
+BFA;53,5;Africa;20903278;red;21,15;red;59,282625;1;1;4;10;Burkina Faso
+BGD;63,5;East & South Asia;164689383;orange;64,256;orange;63,34128571;2;1;6;8;Bangladesh
+BGR;73,8;E. Europe & C. Asia;6948445;green;97,507;orange;66,34725;2;3;10;2;Bulgaria
+BIH;73,7;E. Europe & C. Asia;3280815;green;99,774;orange;65,56942857;1;2;12;1;Bosnia and Herzegovina
+BLR;78,8;E. Europe & C. Asia;9449321;green;99,895;orange;64,997375;2;5;7;2;Belarus
+BLZ;64,4;LAC;397621;red;55,346;orange;59,36257143;1;2;5;8;Belize
+BOL;67,6;LAC;11673029;orange;85,899;red;57,89614286;0;3;6;7;Bolivia
+BRA;71,3;LAC;212559409;yellow;86,9855;orange;69,89925;1;5;4;7;Brazil
+BRB;68,4;LAC;287371;yellow;91,8915;orange;48,91;2;2;4;6;Barbados
+BTN;70;East & South Asia;771612;yellow;90,262;red;54,5438;0;6;3;7;Bhutan
+BWA;61,9;Africa;2351625;red;54,784;red;41,411375;0;2;4;10;Botswana
+CAF;38,3;Africa;4829764;red;0;red;43,6455;1;1;0;14;Central African Republic
+CAN;79,2;OECD;37742157;yellow;99,5335;orange;67,3625;1;8;4;4;Canada
+CHE;80,1;OECD;8654618;green;99,838;orange;70,49525;2;5;5;4;Switzerland
+CHL;77,1;OECD;19116209;yellow;99,7395;red;71,91475;0;3;8;6;Chile
+CHN;72,1;East & South Asia;1439323774;green;98,5565;orange;81,1;2;2;10;3;China
+CIV;57,6;Africa;26378275;red;43,7735;red;61,657625;2;0;2;13;Cote d'Ivoire
+CMR;55,3;Africa;26545864;red;42,3005;red;64,80575;2;0;2;13;Cameroon
+COD;49,3;Africa;89561404;red;0;red;47,618;1;2;0;14;Congo, Dem. Rep.
+COG;52,9;Africa;5518092;red;0;red;46,33542857;2;0;2;13;Congo, Rep.
+COL;70,6;OECD;50882884;orange;83,4345;orange;64,122875;1;1;7;8;Colombia
+CPV;68,1;Africa;555988;orange;83,2205;red;37,3956;1;1;10;5;Cabo Verde
+CRI;73,6;LAC;5094114;yellow;95,126;red;52,184125;1;7;4;5;Costa Rica
+CYP;74,9;E. Europe & C. Asia;1207361;green;99,931;orange;59,19225;2;6;5;4;Cyprus
+CZE;81,4;OECD;10708982;green;99,795;red;61,56375;3;3;7;3;Czech Republic
+DEU;82,5;OECD;83783945;yellow;99,5335;orange;72,444625;0;9;6;2;Germany
+DJI;53,8;Africa;988002;red;58,799;red;35,43083333;1;0;2;14;Djibouti
+DNK;84,9;OECD;5792203;green;99,679;red;58,859875;3;9;2;3;Denmark
+DOM;70,8;LAC;10847904;yellow;97,225;red;60,186875;0;6;6;5;Dominican Republic
+DZA;70,9;MENA;43851043;yellow;96,939;red;56,56557143;0;5;7;5;Algeria
+ECU;72,5;LAC;17643060;orange;85,0345;red;59,198125;1;6;5;5;Ecuador
+EGY;68,6;MENA;102334403;orange;74,326;red;64,32775;0;4;6;7;Egypt, Arab Rep.
+ESP;79,5;OECD;46754783;yellow;98,6075;red;63,8845;0;8;6;3;Spain
+EST;81,6;OECD;1326539;yellow;99,921;red;63,813;1;7;6;3;Estonia
+ETH;54,5;Africa;114963583;red;33,9255;red;61,537625;2;0;3;11;Ethiopia
+FIN;85,9;OECD;5540718;green;99,848;orange;64,164625;4;7;4;2;Finland
+FJI;71,2;Oceania;896444;yellow;91,2535;red;57,3215;1;5;5;5;Fiji
+FRA;81,7;OECD;65273512;green;99,7455;orange;73,728625;1;7;6;3;France
+GAB;62,8;Africa;2225728;orange;83,2695;red;51,98542857;0;2;5;9;Gabon
+GBR;80;OECD;67886004;yellow;99,726;red;67,30825;1;8;3;5;United Kingdom
+GEO;72,2;E. Europe & C. Asia;3989175;orange;84,215;orange;52,25271429;1;4;8;4;Georgia
+GHA;62,5;Africa;31072945;orange;65,909;red;66,30975;2;0;6;9;Ghana
+GIN;51;Africa;13132792;red;30,861;red;49,71116667;1;1;3;12;Guinea
+GMB;59,3;Africa;2416664;orange;64,264;red;58,47025;1;1;4;11;Gambia, The
+GRC;75,4;OECD;10423056;yellow;97,8405;orange;66,169125;0;3;10;4;Greece
+GTM;59,9;LAC;17915567;orange;74,105;red;38,93975;2;0;5;10;Guatemala
+GUY;57,9;LAC;786559;orange;86,545;orange;68,722;0;2;7;7;Guyana
+HND;62,8;LAC;9904608;red;56,4505;red;52,44525;1;1;7;8;Honduras
+HRV;80,4;E. Europe & C. Asia;4105268;green;98,61;orange;74,993625;3;5;8;1;Croatia
+HTI;51,4;LAC;11402533;red;30,3445;red;42,45614286;1;1;0;14;Haiti
+HUN;78,8;OECD;9660350;orange;98,7725;red;72,647375;0;4;9;3;Hungary
+IDN;66,3;East & South Asia;273523621;orange;78,9745;red;64,467125;0;3;5;9;Indonesia
+IND;60,1;East & South Asia;1380004385;orange;59,5765;red;52,439125;1;2;3;11;India
+IRL;81;OECD;4937796;green;99,795;red;75,894875;2;7;4;4;Ireland
+IRN;70;MENA;83992953;yellow;95,4645;red;63,628;1;2;5;9;Iran, Islamic Rep.
+IRQ;63,8;MENA;40222503;orange;79,5535;red;51,97985714;0;4;4;9;Iraq
+ISL;78,2;OECD;341250;green;99,798;orange;58,23585714;4;4;4;5;Iceland
+ISR;75;OECD;8655541;orange;99,2465;red;61,956125;1;2;6;8;Israel
+ITA;78,8;OECD;60461828;yellow;98,06;orange;71,018625;0;5;9;3;Italy
+JAM;69;LAC;2961161;orange;83,3785;red;55,84625;0;4;8;5;Jamaica
+JOR;70,1;MENA;10203140;yellow;95,3335;orange;59,558375;0;4;9;4;Jordan
+JPN;79,8;OECD;126476458;yellow;99,2295;orange;75,19625;3;5;4;5;Japan
+KAZ;71,6;E. Europe & C. Asia;18776707;green;99,9155;red;59,17025;1;6;5;4;Kazakhstan
+KEN;60,6;Africa;53771300;red;49,093;red;57,485125;1;1;4;11;Kenya
+KGZ;74;E. Europe & C. Asia;6524191;yellow;84,523;orange;61,88657143;1;7;5;3;Kyrgyz Republic
+KHM;64,5;East & South Asia;16718971;yellow;81,951;orange;63,845875;2;1;6;8;Cambodia
+KOR;78,6;OECD;51269183;yellow;99,041;orange;82,46325;1;6;4;6;Korea, Rep.
+LAO;63;East & South Asia;7275556;orange;54,866;orange;64,25716667;1;1;7;7;Lao PDR
+LBN;66,8;MENA;6825442;green;99,009;red;57,215375;1;1;8;6;Lebanon
+LBR;48,6;Africa;5057677;red;20,0205;red;45,57628571;2;0;2;13;Liberia
+LKA;68,1;East & South Asia;21413250;yellow;91,544;red;62,129625;2;1;4;10;Sri Lanka
+LSO;54,6;Africa;2142252;red;31,594;red;50,695375;1;3;2;10;Lesotho
+LTU;76,7;OECD;2722291;yellow;98,49;red;63,92625;1;3;8;5;Lithuania
+LUX;74,2;OECD;625976;yellow;99,444;red;59,691375;1;4;5;6;Luxembourg
+LVA;79,2;OECD;1886202;orange;98,9435;red;64,927125;1;5;4;7;Latvia
+MAR;70,5;MENA;36910558;yellow;93,6295;red;62,490375;2;3;7;5;Morocco
+MDA;73,7;E. Europe & C. Asia;4033963;green;99,509;orange;58,84716667;2;4;7;3;Moldova
+MDG;49;Africa;27691019;red;0;red;57,10925;1;1;1;14;Madagascar
+MDV;69,3;East & South Asia;540542;green;99,683;red;40,012;3;2;8;4;Maldives
+MEX;69,1;OECD;128932753;orange;90,7065;red;61,031;0;0;8;9;Mexico
+MKD;72,5;E. Europe & C. Asia;2083380;yellow;91,758;orange;64,42985714;0;3;12;1;North Macedonia
+MLI;52,2;Africa;20250834;red;22,314;red;60,006;1;1;1;13;Mali
+MLT;75,7;E. Europe & C. Asia;441539;green;99,8285;red;67,044125;3;6;4;4;Malta
+MMR;64,9;East & South Asia;54409794;yellow;90,1265;orange;61,208875;1;2;3;11;Myanmar
+MNE;68,2;E. Europe & C. Asia;628062;yellow;93,666;red;50,29542857;0;4;8;5;Montenegro
+MNG;63,8;East & South Asia;3278292;yellow;96,8105;red;41,55128571;1;2;3;10;Mongolia
+MOZ;51,1;Africa;31255435;red;8,182;red;45,31728571;1;1;1;14;Mozambique
+MRT;55,5;Africa;4649660;orange;70,742;red;43,19457143;1;1;3;12;Mauritania
+MUS;66,7;Africa;1271767;green;98,3815;orange;73,732;1;3;8;5;Mauritius
+MWI;51,4;Africa;19129955;red;0;red;64,00125;1;1;3;11;Malawi
+MYS;70,9;East & South Asia;32365998;green;99,9805;red;47,363625;1;6;4;6;Malaysia
+NAM;61,8;Africa;2540916;red;50,8985;red;49,629875;1;5;1;10;Namibia
+NER;49,5;Africa;24206636;red;21,894;red;44,035;1;1;2;12;Niger
+NGA;48,9;Africa;206139587;red;20,503;red;60,130625;2;0;2;13;Nigeria
+NIC;66,3;LAC;6624554;orange;81,659;red;54,50025;1;2;6;8;Nicaragua
+NLD;81,6;OECD;17134873;green;99,5695;red;66,262125;1;8;3;5;Netherlands
+NOR;82;OECD;5421242;green;99,4705;red;60,46425;6;4;3;4;Norway
+NPL;66,5;East & South Asia;29136808;orange;62,796;red;59,12114286;2;1;5;8;Nepal
+NZL;79,1;OECD;4822233;yellow;99,9735;orange;66,61142857;1;8;4;4;New Zealand
+PAK;57,7;East & South Asia;220892331;orange;71,241;red;51,03;1;1;1;14;Pakistan
+PAN;68;LAC;4314768;yellow;93,584;red;50,402125;1;2;7;7;Panama
+PER;71,1;LAC;32971846;yellow;88,06;orange;69,976375;1;4;6;6;Peru
+PHL;64,5;East & South Asia;109581085;orange;69,707;red;63,8545;1;2;5;9;Philippines
+PNG;51,3;Oceania;8947027;red;29,0085;red;29,5572;1;1;2;13;Papua New Guinea
+POL;80,2;OECD;37846605;green;99,4655;orange;68,159875;2;5;6;4;Poland
+PRT;78,6;OECD;10196707;yellow;99,3815;red;64,1045;1;8;4;4;Portugal
+PRY;66,9;LAC;7132530;yellow;94,0245;orange;73,7635;0;3;7;6;Paraguay
+ROU;75;E. Europe & C. Asia;19237682;yellow;94,798;orange;70,6615;0;5;10;2;Romania
+RUS;73,8;E. Europe & C. Asia;145934460;green;99,896;orange;57,5145;2;4;8;3;Russian Federation
+RWA;57,6;Africa;12952209;red;18,905;red;58,787625;1;0;5;10;Rwanda
+SDN;49,5;Africa;43849269;red;34,9105;red;24,608;1;1;0;15;Sudan
+SEN;58,4;Africa;16743930;red;30,124;red;61,41375;2;0;2;13;Senegal
+SGP;69,9;East & South Asia;5850343;green;98,4435;orange;76,10533333;4;3;4;5;Singapore
+SLE;51,7;Africa;7976985;red;20,303;red;49,78857143;2;0;2;13;Sierra Leone
+SLV;67,9;LAC;6486201;yellow;90,159;red;54,954875;1;5;5;6;El Salvador
+SOM;45,6;Africa;15893219;red;8,0715;red;32,2824;1;1;1;13;Somalia
+SRB;75,6;E. Europe & C. Asia;8737370;green;99,72;orange;71,179125;2;3;10;1;Serbia
+SSD;38,9;Africa;11193729;red;0;red;23,3235;1;0;2;13;South Sudan
+STP;58,8;Africa;219161;red;22,431;red;57,20557143;1;0;5;11;Sao Tome and Principe
+SUR;67;LAC;586634;red;52,007;orange;62,87328571;0;2;9;5;Suriname
+SVK;79,6;OECD;5459643;green;98,2415;red;72,012;1;6;6;3;Slovak Republic
+SVN;81,6;OECD;2078932;green;99,838;red;59,009625;3;8;3;3;Slovenia
+SWE;85,6;OECD;10099270;green;99,384;red;62,9285;4;8;0;5;Sweden
+SWZ;53,3;Africa;1160164;red;29,644;red;50,396875;0;0;6;10;Eswatini
+TCD;40,9;Africa;16425859;red;20,73;red;32,21628571;1;1;0;14;Chad
+TGO;53,2;Africa;8278737;red;18,113;red;60,415875;2;0;3;12;Togo
+THA;74,2;East & South Asia;69799978;green;100;red;59,772;1;1;10;5;Thailand
+TJK;69,8;E. Europe & C. Asia;9537642;yellow;89,246;red;59,595;2;3;4;7;Tajikistan
+TKM;61,1;E. Europe & C. Asia;6031187;red;29,3735;red;53,96257143;0;3;2;10;Turkmenistan
+TTO;63,5;LAC;1399491;green;98,5315;orange;55,2985;1;2;8;5;Trinidad and Tobago
+TUN;71,4;MENA;11818618;yellow;97,069;red;55,10471429;0;6;6;5;Tunisia
+TUR;70,4;OECD;84339067;orange;99,624;orange;65,068;0;1;8;8;Turkey
+TZA;56,4;Africa;59734213;red;18,7605;red;59,784375;1;1;3;12;Tanzania
+UGA;53,5;Africa;45741000;red;23,664;red;64,42142857;1;1;1;13;Uganda
+UKR;75,5;E. Europe & C. Asia;43733759;green;99,774;orange;63,821625;2;4;8;3;Ukraine
+URY;74,5;LAC;3473727;green;99,932;orange;67,540875;2;5;5;5;Uruguay
+USA;76;OECD;331002647;orange;99,2335;red;69,135375;0;4;6;7;United States
+UZB;69,8;E. Europe & C. Asia;33469199;orange;75,7845;orange;65,38185714;1;4;4;7;Uzbekistan
+VEN;59,3;LAC;28435943;red;13,244;red;43,22585714;0;2;6;9;Venezuela, RB
+VNM;72,8;East & South Asia;97338583;yellow;95,1425;red;71,032625;2;3;6;6;Vietnam
+VUT;60,5;Oceania;307150;red;52,397;red;46,08057143;1;2;3;11;Vanuatu
+ZAF;63,7;Africa;59308690;red;44,1865;red;58,5875;0;3;6;8;South Africa
+ZMB;53,4;Africa;18383956;red;9,2975;red;60,96885714;2;0;3;11;Zambia

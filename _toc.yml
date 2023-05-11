@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: L0Intro
+chapters:
+- title: Confidence intervals
+  file: L1ConfInt
+- title: Hypothesis testing for one population
+  file: L2HypTest
+

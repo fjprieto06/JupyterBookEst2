@@ -1,0 +1,77 @@
+# Jupyter Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Statistics II
+author: Department of Statistics UC3M
+logo: logo_uc3m_banner.png
+
+# Force re-execution of notebooks on each build
+execute:
+  execute_notebooks: force
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: Stat2test.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+# Advanced Sphinx configuration options
+sphinx: 
+  extensions: sphinx_thebe
+  config:
+    html_theme: sphinx_book_theme
+    html_theme_options: 
+      # If set to false, remove button to download files from HTML version of the book
+      use_download_button : false
+#      launch_buttons      : {"thebe"}
+    latex_elements: 
+      papersize: "a4paper"
+      pointsize: 10pt  # Options: 10pt, 11pt, 12pt ONLY
+      preamble: |
+        \makeatletter % enable @-symbol for macros; don't forget to turn off with \makeatother
+
+        % Use 1.5x lìne spacing
+        \usepackage{setspace}
+        \onehalfspacing
+
+        % Reduce font size in code blocks
+        % Override the fontsize command defined and used by fancyvrb (which implements Verbatim environments)
+        % If pointsize set at more than 10pt, set FV@FontSize as tiny
+        \renewcommand{\FV@FontSize}{\scriptsize}
+
+        \makeatother % disable @-symbol for macros
+
+        \usepackage{sphinxlatexgraphics_mod}
+
+# Launch button settings
+launch_buttons:
+  notebook_interface        : jupyterlab
+#  binderhub_url             : "https://mybinder.org"
+  thebe                     : true
+  jupyterhub_url            : "https://notebook.jupyter.uc3m.es"
+#  colab_url                 : "https://colab.research.google.com"
+
+# Parse and render settings
+parse:
+  myst_enable_extensions:
+    - amsmath
+    - colon_fence
+    - dollarmath
+    - html_image
+    - linkify
+    - substitution
+    - tasklist
+
+# Information about where the book exists on the web
+#repository:
+#  url: https://github.com/executablebooks/jupyter-book  # Online location of your book
+#  path_to_book: docs  # Optional path to your book, relative to the repository root
+#  branch: master  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+#html:
+#  use_issues_button: true
+#  use_repository_button: true
