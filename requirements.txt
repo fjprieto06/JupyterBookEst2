@@ -1,11 +1,1 @@
 jupyter-book
-R
-tidyverse
-huxtable
-knitr
-kableExtra
-IRdisplay
-gridExtra
-qqplotr
-GGally
-car
